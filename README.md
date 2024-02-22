@@ -1,6 +1,7 @@
-# OneDark Theme
+# Catppuccin for Typora (WIP)
 
-A **DARK** theme for Typora inspired by One Dark theme and Material Design.
+A port of the Catppucin theme for Typora.
+The project is based on the (One Dark)[https://github.com/sweatran/typora-onedark-theme] theme for Typora.
 
 ## Feature
 
@@ -21,26 +22,3 @@ A **DARK** theme for Typora inspired by One Dark theme and Material Design.
 * Select `Onedark` theme in Typora.
 
 ## Screenshots
-
-![](images/image-20200330213811849.png)
-
-![](images/image-20200330213904133.png)
-
-![](images/image-20200330214037510.png)
-
-![](images/image-20200330214157359.png)
-
-![](images/image-20200330214331117.png)
-
-## To-Do
-
-* Add Material Design shadow effect to mermaid chart.
-* Better support for Linux.
-
-## Notes
-
-* Tested on Windows, Typora version 0.11.16(beta). 
-* Support Windows "Unibody" style. 
-* The theme should work on MacOS. However, some effect may display improperly (e.g. checkbox).
-
-> If you have any advice or feedback, please create a new issue or contact me via email: sweatran@gmail.com
